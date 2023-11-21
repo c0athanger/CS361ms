@@ -21,3 +21,4 @@ Before a request is complete the output.txt file will simply contain the word PE
 {"money": 15, "time": 5}
 
 UML Diagram:
+![diagram](https://github.com/c0athanger/CS361ms/assets/83789862/b53cf099-92b8-4411-bc28-62e0343dae60)
